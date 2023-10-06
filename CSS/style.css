@@ -16,3 +16,15 @@ h1 {
                         color: rgb(255, 0, 0);
                         background-color:rgb(250, 164, 4);
 }
+
+.practice003{
+                        text-decoration: line-through;
+}
+
+.practice0031{
+ text-decoration: overline;
+}
+
+.practice0032{
+ text-decoration: underline;
+                       }
